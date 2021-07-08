@@ -1,1 +1,1 @@
-# alien-space-game
+# space-game
